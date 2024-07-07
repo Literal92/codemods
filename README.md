@@ -20,9 +20,9 @@ import { MatCardModule } from '@angular/material/card';
 
 # Getting Started
 ## Prerequisites
-. Node.js
-. npm or yarn
-. jscodeshift
+* Node.js
+* npm or yarn
+* jscodeshift
 
 ## Installation
 Install jscodeshift globally if you haven't already:
