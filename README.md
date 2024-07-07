@@ -1,4 +1,4 @@
-### Angular Material Imports Codemod
+# Angular Material Imports Codemod
 This project provides a codemod script to update Angular Material imports to their new module paths, suitable for Angular v9 and beyond. It leverages jscodeshift to transform the import statements in your codebase.
 
 ## Purpose
@@ -18,7 +18,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 ```
 
-### Getting Started
+# Getting Started
 ## Prerequisites
 . Node.js
 . npm or yarn
