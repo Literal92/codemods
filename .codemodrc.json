@@ -1,11 +1,12 @@
 {
   "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
-  "name": "Angular Material Imports",
+  "name": "angular-material-imports",
   "version": "1.0.0",
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
   "meta": {
-    "tags": ["Angular", "angualr-material", "Migration"]
+    "tags": ["Angular", "angualr-material", "Migration"],
+    "git": "https://github.com/Literal92/angular-material-imports-codemod"
   }
 }
