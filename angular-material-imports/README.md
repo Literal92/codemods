@@ -1,4 +1,3 @@
-# Angular-Material-Imports Codemod
 This project provides a codemod script to update Angular Material imports to their new module paths, suitable for Angular v9 and beyond. It leverages jscodeshift to transform the import statements in your codebase.
 
 ## Purpose
