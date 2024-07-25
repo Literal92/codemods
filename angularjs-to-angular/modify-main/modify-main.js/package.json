@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-to-angular",
+  "name": "modify-main-js",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "20.9.0",
@@ -17,6 +17,5 @@
     ".codemodrc.json",
     "/dist/index.cjs"
   ],
-  "type": "module",
-  "author": "literal92"
+  "type": "module"
 }
